@@ -1,0 +1,64 @@
+node id,Name,Majors,Research Area of Interest,Hobby,Desired Job,"Gender Identity (F, M, O)"
+1,"Shiraishi, Kenji",Public Policy PhD,na,na,na,na
+2,"Yeskoo, Andrew",Civil & Environmental Eng PhD,"Instrumentation and monitoring, machine learning","skiing, car racing, hiking, camping",engineer,M
+3,"Nordahl, Sarah",Civil & Environmental Eng PhD,na,na,na,na
+4,"Walter, Karl",Civil & Env Eng Prof MS,Energy Systems Control + Analysis,"Tennis, cooking, reading",Engineer,M
+5,"Kato, Dylan","Civil & Environmental Eng MS, Civil & Environmental Eng PhD",Systems Control + Analysis (Battery applications),"Cooking,hiking",Professor,M
+6,"Gill, Preet",Civil & Environmental Eng PhD,Systems Control ,"Hiking, Mountain biking, Kayaking, Surfing",Research Faculty ,M
+7,"Lee, Jasper",Civil & Environmental Eng MEng,Connected & Autonomous Vehicles,Basketball,Transportation Data Analyst,M
+8,"Achatz Antonelli, Pietro",Civil & Environmental Eng PhD,Transportation Facility Management and Optimization,"Hiking, Skiing, Cello, Guitar",Engineering Project Manager,M
+9,"Reiter, Matthew",Civil & Environmental Eng PhD,na,na,na,na
+10,"Grieb, Daniel",Mechanical Engineering PhD,Fluid Mechanics/Ocean Engineering,Running,Professor,M
+11,"Huang, Jhih-Rou",Civil & Environmental Eng PhD,Image processing/ Landslide,Hiking,Engineer,F
+12,"Arauzo, Talia",Civil & Env Eng Prof MS,Water & Energy Systems Anaylsis,Hiking,Engineer / Researcher,F
+13,"Yu, Hilary",Energy & Resources PhD,"Energy & environment, behavior, development/urbanization","Reading, hiking",Professor,F
+14,"Elimbi Moudio, Pelagie",Industrial Eng & Ops Rsch PhD,"Agricultural supply chains, wild fire risk","baking, dancing",Research Scientist,F
+15,"Holgado, Sydney",Civil & Environmental Eng MEng,Water Systems,Latin Dance,Water Systems Engineer,F
+16,"Wehrmeyer, Michael",Civil & Env Eng Prof MS,Transportation Safety,Reading,Transportation Systems Engineer,M
+17,"Clark, Callie",Civil & Env Eng Prof MS,Systems Analysis and Controls,Hiking,Researcher / Professor,F
+18,"Le, Jackson",Civil & Env Eng Prof MS,Data Science,Swimming,Data Science,M
+19,"Ozturk, Ayse Tugba",Civil & Env Eng Prof MS,"Electric Vehicle Infrastructure, Renewable Energy ","Kitesurf,water sports ",Engineer,F
+20,"Goh, Natalie",Chemical Engineering PhD,na,na,na,na
+21,"Lui, Alison",Chemical Engineering PhD,Cellular Biophysics,Volleyball,Faculty,F
+22,"Elmallah, Salma",Energy & Resources PhD,Residential heating energy use & distribution grids,Knitting,Unsure,F
+23,"Itani, Ibrahim","Civil & Environmental Eng MS, Civil & Environmental Eng PhD",na,na,na,na
+24,"Keyantuo, Patrick",Civil & Environmental Eng PhD,Controls & Optimization,"Dancing, Cooking",Researcher,M
+25,"Campmier, Mark",Civil & Environmental Eng PhD,Air Pollution & Energy Infastructure,Hiking,Researcher,M
+26,"Carpio, Joy",Civil & Environmental Eng PhD,Energy Modelling and Traffic Simulation,Singing,Professor,F
+27,"Bagabaldo, Alben",Civil & Environmental Eng PhD,Traffic simulation & public transportation,Cooking,Professor,M
+28,"Crespo Montanes, Cristina",Energy & Resources MS,Grid integration of renewables,Running,Engineer,F
+29,"Soysal, Sena",Civil & Env Eng Prof MS,na,na,na,na
+30,"Onat, Emin Burak",Civil & Env Eng Prof MS,Urban Air Mobility & Transportation,"Cheese tasting, hiking","Engineer, Entrepreneur",M
+31,"Cui, Jiaqi",Civil & Env Eng Prof MS,Systems Analysis & Data Science,Music,Data Scientist,F
+32,"Bilginsoy, Alev",Landscape Architecture MLA,Flooding and Transportation Disruption,"Hiking, Cooking",Unsure ,F
+33,"Russo, Brittany",Civil & Env Eng Prof MS,Noninvasive Monitoring Techniques,Reading,Professor,F
+34,"Kerby-Miller, John",Business Administration MBA,Renewable Energy Systems,"Running, Hiking, Mountain biking, Kayaking, Kitesurf",Product Manager,M
+35,"Virtucio, Michael","Civil & Environmental Eng MS, Civil & Environmental Eng PhD","Systems, transportation","Badminton, Movies",Researcher,M
+36,"Jiang, Zhiyong",Civil & Env Eng Prof MS,Systems Analysis & Data Science,Badminton,Researcher/Professor,M
+37,"Soltis, Patrick",Civil & Env Eng Prof MS,Power systems & Circular economy,"Running, Music",Product Manager,M
+38,"Bruguera, Maya",Civil & Env Eng Prof MS,Climate mitigation and adaptation in energy and water systems,"Hiking, backpacking",Consultant/Analyst,F
+39,"Zhou, Alvin",Civil & Env Eng Prof MS,Systems Analysis & Data Science,Reading,Unsure,M
+40,"Sura, Hardi",Civil & Env Eng Prof MS,Computational social science and human dynamics,"Writing, hiking",Researcher/Professor,F
+41,"Agu, Kamsey",Civil & Env Eng Prof MS,Urban Systems & Data Science,Cooking,Consultant/Researcher,F
+42,"Li, Weixin",Civil & Env Eng Prof MS,Geospatial Analysis and Smart Cities,Reading,Researcher/Professor,F
+43,"Berg, Luis",Civil & Env Eng Prof MS,Community Resilience & Earthquake Engineering,Reading,Bridge Engineer,M
+44,"Sell, Ryan",Civil & Env Eng Prof MS,"Systems, Transportation Networks, Biofuels, Land-use, Resources (e.g. water scarcity)","Music, Photography",Consultant,M
+45,"Darling, Wesley",Civil & Env Eng Prof MS,Shared Mobility,Movies,Data Scientist,M
+46,"Zhang, Xinyu",Civil & Environmental Eng MEng,Systems Analysis & Data Science,"Movies, Reading",project manager,F
+47,"Yan, Xingshuo",Civil & Environmental Eng MEng,Smart City& Data Science,Sports,Data Analyst,M
+48,"Wang, abby",Civil & Environmental Eng MEng,System Engineering ,badminton,project manager,
+49,"Gong, Weibing",Civil & Environmental Eng PhD,Natural disasters,Watching sports,Professor,M
+50,"Medina Rodriguez, Laura",Civil & Env Eng Prof MS,na,na,na,na
+51,"Chow, Chun Ho","City & Reg Plan MCP-CEE MS CDP, Civil & Env Eng MS-MCP CDP",Emergence of urbanism and social complexity,Hiking,Researcher,M
+52,"Dangwal, Chitra",Civil & Environmental Eng PhD,Electrochemical Modeling,Hiking,Researcher,F
+53,"Gomberg, Drew",Civil & Env Eng Prof MS,Geospatial Analysis and Infrastruture Resilence ,Rock Climbing,Professor / Researcher,
+54,"Eames, Allison",Civil & Env Eng Prof MS,Sustainable Energy and Transport,Backpacking,Consultant,F
+55,"James, Oliver","Energy & Resources MS-MPP CDP, Public Policy MPP-ERG MS CDP",na,na,na,na
+56,"Burns, Jordan",Materials Science & Eng PhD,"Li-ion batteries, active transportation","Language learning, gardening",Data scientist,M
+57,"Miranda Gonzalez, Andrea",Demography PhD,Migration,Knitting,Researcher/Professor,F
+58,"Parkes, James",Physics PhD,Network Science,Reading,Researcher,M
+59,"Lapardhaja, Servet",Civil & Environmental Eng PhD,Autonomous Vehicles,Soccer,Researcher,M
+60,"Li, Meiqing",City & Regional Planning PhD,"Transportation Planning, Urban Spatial Analytics",Music,Researcher/Professor,F
+61,"Boyle, Andrea",Master of City Planning MCP,na,na,na,na
+62,"Tikku, Ishan",Industrial Eng & Ops Rsch MEng,"Urban planning, Sustainable transportation",Boxing,Product Manager,M
+63,"You, Bo Xiang",UCBX Concurrent Enrollment,"Smart City, Civic Society",Films,Researcher,M
